@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tags">
+    <pa_tags action="INSERT_OR_UPDATE">
+        <description/>
+        <label>NeedIt</label>
+        <sys_class_name>pa_tags</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-09 09:42:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e68b6a1b87702110bc45fe68dabb3587</sys_id>
+        <sys_name>NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_tags_e68b6a1b87702110bc45fe68dabb3587</sys_update_name>
+    </pa_tags>
+    <sys_translated_text action="delete_multiple" query="documentkey=e68b6a1b87702110bc45fe68dabb3587"/>
+</record_update>
